@@ -7,6 +7,9 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
 Визуализация полученных данных с помощью Tableau. 
 Кроме того получен опыт работы с Git, Airflow, Jupyter Notebook, API, ClickHouse.
 
+# Контакты
+[*Telegram*](https://t.me/@pavel_art_10)
+
 # Проекты
 <table>
     <thead>
