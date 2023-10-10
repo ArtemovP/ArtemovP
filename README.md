@@ -22,7 +22,7 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
             <td rowspan=2 align="left">Проведен анализ продаж онлайн магазина. Посчитаны средний чек заказа и количество товаров в чеке, количество отмененных транзакций и потерянная выручка по ним. 
             Проанализирована прибыль по странам покупателей. Проведен когортный анализ показателя Retention. Проведена RFM-сегментация пользователей. Посчитана метрика ARPPU. По результатам выполненого анализа 
             построен Дашборд </td>
-            <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib), Tebleau </td>
+            <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib), Tableau </td>
     </tbody>
         <tr>
             <td rowspan=4 align="left">Проект 2. Анализ данных продаж онлайн магазина <a href="https://github.com/ArtemovP/Orders_analytics/tree/main">(github)</a> </td>
