@@ -46,6 +46,16 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
               в покупку в течении первой недели для новых пользователей, определение значений конверсии и медианного чека в первую покупку в разрезе каналов привлечения пользователей.</td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib)</td>
     </tbody>
+      <tr>
+            <td rowspan=4 align="left">Проект 5. Проведение RFM-сегментирования клиентов. <a href="https://github.com/ArtemovP/RFM-analysis">(github)</a> </td>
+            <td rowspan=2 align="left">Проведена RFM-сегментация клиентов онлайн-магазина. </td>
+            <td align="left">Python(pandas, numpy, seaborn, matplotlib)</td>
+    </tbody>
+     <tr>
+            <td rowspan=4 align="left">Проект 6. Построение Дашборда <a href="https://github.com/ArtemovP/Dashboards">(github)</a> </td>
+            <td rowspan=2 align="left">Построен Дашборд по данным дохода компании по категориям товаров и регионам продаж</td>
+            <td align="left">Tableau</td>
+    </tbody>
 </table>
 
 
