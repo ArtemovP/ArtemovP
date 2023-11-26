@@ -70,6 +70,9 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
 
 
 # Обучение 
+Сертификат доступен по [*ссылке*](https://lab.karpov.courses/certificate/dda69e00-e0af-4e8c-9d2e-cf28ace79d8b/)
+![](https://drive.google.com/uc?export=view&id=1tW7w6uVII-rTVUQoKMidwEgzIoWk-x9N)
+
 Сертификат доступен по [*ссылке*](https://stepik.org/cert/1004322)
 ![](https://drive.google.com/uc?export=view&id=1ca2PNj0RXdFPrTx4uZjxqH5bjJj9oS6Y)
 
