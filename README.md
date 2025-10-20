@@ -25,7 +25,7 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
     </thead>
     <tbody>
                <tr>
-            <td rowspan=4 align="left">Проект 0. Анализ АВ-теста с помощью однофакторного и многофактороного дисперсионных анализов <a href="https://github.com/ArtemovP/AB-test-statistics">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 1. Анализ АВ-теста с помощью однофакторного и многофактороного дисперсионных анализов <a href="">(github)</a> </td>
             <td rowspan=2 align="left">Проведен анализ результатов АВ-тестирования.
             Рассмотрены влияния различных факторов на зависящую переменную в нескольких группах.</td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib, pingouin) </td>
