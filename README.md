@@ -25,7 +25,13 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
     </thead>
     <tbody>
                <tr>
-            <td rowspan=4 align="left">Проект 0. Анализ АВ-теста. Написание запросов в БД. <a href="https://github.com/ArtemovP/AB-test-statistics">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 0. Анализ АВ-теста с помощью однофакторного и многофактороного дисперсионных анализов <a href="https://github.com/ArtemovP/AB-test-statistics">(github)</a> </td>
+            <td rowspan=2 align="left">Проведен анализ результатов АВ-тестирования.
+            Рассмотрены влияния различных факторов на зависящую переменную в нескольких группах.</td>
+            <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib, pingouin) </td>
+    </tbody>
+       <tr>
+            <td rowspan=4 align="left">Проект 2. Анализ АВ-теста. Написание запросов в БД. <a href="https://github.com/ArtemovP/AB-test-statistics">(github)</a> </td>
             <td rowspan=2 align="left">Проведен анализ результатов АВ-тестирования по новой механике оплаты услуг на сайте.
 Реализованы функции для автоматической подгрузки информации о пользователях добавляемых в тестовую или контрольную группы и для пересчета метрик и графиков в соответствии с данными изменениями.
 По результатам анализа выявлено значимое увеличение показателя ARPPU. Принято решение о развертывании обновленной механики оплаты на всех пользователей.
@@ -34,57 +40,48 @@ SQL (JOIN, CTE, оконные функции, вложенные запросы
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib), clickhouse, MySQL </td>
     </tbody>
        <tr>
-            <td rowspan=4 align="left">Проект 1. Анализ АВ-теста. Написание запросов в БД. <a href="https://github.com/ArtemovP/AB-test-statistics">(github)</a> </td>
-            <td rowspan=2 align="left">Проведен анализ результатов АВ-тестирования по новой механике оплаты услуг на сайте.
-Реализованы функции для автоматической подгрузки информации о пользователях добавляемых в тестовую или контрольную группы и для пересчета метрик и графиков в соответствии с данными изменениями.
-По результатам анализа выявлено значимое увеличение показателя ARPPU. Принято решение о развертывании обновленной механики оплаты на всех пользователей.
-
-С помощью SQL выгружены данные из БД образовательного курса. Так же написан запрос подсчитывающий интересующие нас метрики.</td>
-            <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib), clickhouse, MySQL </td>
-    </tbody>
-       <tr>
-            <td rowspan=4 align="left">Проект 2. Анализ продаж онлайн магазина <a href="https://github.com/ArtemovP/E-commerce">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 3. Анализ продаж онлайн магазина <a href="https://github.com/ArtemovP/E-commerce">(github)</a> </td>
             <td rowspan=2 align="left">Проведен анализ продаж онлайн магазина. Посчитаны средний чек заказа и количество товаров в чеке, количество отмененных транзакций и потерянная выручка по ним. 
             Проанализирована прибыль по странам покупателей. Проведен когортный анализ показателя Retention. Проведена RFM-сегментация пользователей. Посчитана метрика ARPPU. По результатам выполненного анализа 
             построен Дашборд </td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib), Tableau </td>
     </tbody>
         <tr>
-            <td rowspan=4 align="left">Проект 3. Анализ данных продаж онлайн магазина <a href="https://github.com/ArtemovP/Orders_analytics/tree/main">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 4. Анализ данных продаж онлайн магазина <a href="https://github.com/ArtemovP/Orders_analytics/tree/main">(github)</a> </td>
             <td rowspan=2 align="left">Определение количества пользователей совершивших покупки, анализ причин задержек и отсутствия доставки заказов, определение количества заказов по дням недели, определение для пользователей среднего количества заказов заказов в месяц (исходя из количества дней в месяце), 
               проведение когортного анализа пользователей и определение ежемесячного retention для каждой когорты за год, построение RFM-сегментации пользователей.</td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib)</td>
     </tbody>
      <tr>
-            <td rowspan=4 align="left">Проект 4. Анализ пользователей мобильного приложения. <a href="https://github.com/ArtemovP/Mobile_app_analysis">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 5. Анализ пользователей мобильного приложения. <a href="https://github.com/ArtemovP/Mobile_app_analysis">(github)</a> </td>
             <td rowspan=2 align="left">Определение показателя Retention игроков по дням от даты регистрации. Анализ проведенного А/В теста акционных предложений в приложении, изучение метрик по группам, формулировка вывода. Определение набора метрик для анализа во время события внутри мобильной игры. </td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib)</td>
     </tbody>
    <tr>
-            <td rowspan=4 align="left">Проект 5. Анализ результатов AB-тестов <a href="https://github.com/ArtemovP/AB-test">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 6. Анализ результатов AB-тестов <a href="https://github.com/ArtemovP/AB-test">(github)</a> </td>
             <td rowspan=2 align="left">Проведен анализ двух наборов данных. 1) Анализ АВ-теста обновления приложения знакомств. 2) Анализ АВ-теста обновления приложения доставки продуктов. По обоим датасетам выделены
               ключевые метрики продукта. Выдвинуты и проверены статистическими методами гипотезы. Сделаны выводы о целесообразности дальнейшего использования обновлений для всех пользователей </td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib, pingouin), Стат. методы (Хи-квадрат Пирсона, тест Шапиро-Уилка, критерий Манна-Уитни)</td>
     </tbody>
    <tr>
-            <td rowspan=4 align="left">Проект 6. Анализ работы приложения доставки продуктов. <a href="https://github.com/ArtemovP/Analytics_usage_app">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 7. Анализ работы приложения доставки продуктов. <a href="https://github.com/ArtemovP/Analytics_usage_app">(github)</a> </td>
             <td rowspan=2 align="left">Анализ поведения пользователей приложения, оценка эффективности каналов их привлечения.
 Определение канала с которого приходит наибольшее количество пользователей, анализ воронки конверсии и определение наименьшего значения относительной конверсии, проведения когортного анализа и определение конверсии 
               в покупку в течении первой недели для новых пользователей, определение значений конверсии и медианного чека в первую покупку в разрезе каналов привлечения пользователей.</td>
             <td align="left">Python(pandas, numpy, seaborn, scipy, matplotlib)</td>
     </tbody>
      <tr>
-            <td rowspan=4 align="left">Проект 7. SQL-запросы <a href="https://github.com/ArtemovP/SQL_Queries">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 8. SQL-запросы <a href="https://github.com/ArtemovP/SQL_Queries">(github)</a> </td>
             <td rowspan=2 align="left">Выполнены несколько заданий по выполнению SQL-запросов</td>
             <td align="left">SQL(CREATE TABLE, INSERT INTO, JOIN, CTE, оконные функции, вложенные запросы) </td>
     </tbody>
       <tr>
-            <td rowspan=4 align="left">Проект 8. Проведение RFM-сегментирования клиентов. <a href="https://github.com/ArtemovP/RFM-analysis">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 9. Проведение RFM-сегментирования клиентов. <a href="https://github.com/ArtemovP/RFM-analysis">(github)</a> </td>
             <td rowspan=2 align="left">Проведена RFM-сегментация клиентов онлайн-магазина. </td>
             <td align="left">Python(pandas, numpy, seaborn, matplotlib)</td>
     </tbody>
      <tr>
-            <td rowspan=4 align="left">Проект 9. Построение Дашборда <a href="https://github.com/ArtemovP/Dashboards">(github)</a> </td>
+            <td rowspan=4 align="left">Проект 10. Построение Дашборда <a href="https://github.com/ArtemovP/Dashboards">(github)</a> </td>
             <td rowspan=2 align="left">Построен Дашборд по данным дохода компании по категориям товаров и регионам продаж</td>
             <td align="left">Tableau</td>
     </tbody>
